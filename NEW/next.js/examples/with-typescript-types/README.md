@@ -14,6 +14,12 @@ Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-typescript-types)
 
+## Develop
+You can also open this project in a browser-based IDE like Codeanywhere for development.
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/vercel/next.js/tree/canary/examples/with-goober)
+
+
 ## Useful links
 
 [Add import type and export type support to TypeScript](https://github.com/babel/babel/pull/11171)
